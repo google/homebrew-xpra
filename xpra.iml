@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///Library/Caches/Homebrew/xpra--svn-HEAD" />
+    <content url="file:///usr/local/Cellar/xpra/HEAD">
+      <sourceFolder url="file:///usr/local/Cellar/xpra/HEAD/libexec/vendor/lib/python2.7/site-packages" isTestSource="false" />
+      <sourceFolder url="file:///usr/local/Cellar/xpra/HEAD/lib/python2.7/site-packages" isTestSource="false" />
+      <sourceFolder url="file:///usr/local/Cellar/xpra/HEAD/libexec/bin" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="Python 2.7.10 (/usr/local/bin/python)" jdkType="Python SDK" />
+  </component>
+</module>
